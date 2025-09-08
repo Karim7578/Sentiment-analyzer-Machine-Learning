@@ -1,4 +1,4 @@
-# Reddit Climate Opinions — Analyse & Insights (Hackathon V7)
+# Reddit Climate Opinions — Analyse & Insights
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Karim7578/Hackathon_1/blob/main/Hackaton_V7.ipynb)
 
